@@ -10,9 +10,9 @@ read FILE
 echo "Rename your file if you want, otherwise digit the same name"
 read FILE1
 if [ FILE1 == '' ]; then
-	FILE1 = FILE
+  FILE1 = FILE
 else
-	FILE1 = FILE1
+  FILE1 = FILE
 fi
 echo
 echo "The file $FILE will be analyzed"
