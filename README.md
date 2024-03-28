@@ -1,5 +1,6 @@
 Welcome,
 To use and to show my results, you have to digit on your shell the commands
+# cd Ciaramella
 # chmod u+x ex.pro
 # chmod u+x ex.pro.py
 # source ex_pro
