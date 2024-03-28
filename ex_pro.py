@@ -5,6 +5,7 @@ import matplotlib.patches as mpatches
 import pandas as pd
 import json
 import os
+import shutil
 import sys
 from sklearn.preprocessing import MinMaxScaler
 
